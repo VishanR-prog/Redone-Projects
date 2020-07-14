@@ -1,0 +1,25 @@
+welcome		bienvenue
+to		sur
+first		premièr
+program		programme
+c++!		c++!
+hello		bonjour
+there		il
+how		comment
+are		allez
+you		vous
+today		aujourd'hui
+good		bon
+good morning	bonjour
+afternoon	après-midi
+good evening	bonsoir
+much		beaucoup
+is		est
+this		ce
+where		où
+my		mon
+in		en
+thank you	merci
+have		avez
+been		ètè
+very		très
